@@ -1,0 +1,11 @@
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\bin\Debug\Windows Contact Tracing Records Viewer.exe.config
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\bin\Debug\Windows Contact Tracing Records Viewer.exe
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\bin\Debug\Windows Contact Tracing Records Viewer.pdb
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.csproj.AssemblyReference.cache
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows_Contact_Tracing_Records_Viewer.WindowsContactTracingRecordsViewer.resources
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows_Contact_Tracing_Records_Viewer.Properties.Resources.resources
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.csproj.GenerateResource.cache
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.exe
+C:\Users\Senon\Documents\Repositories\Windows Contact Tracing Records Viewer\Windows Contact Tracing Records Viewer\obj\Debug\Windows Contact Tracing Records Viewer.pdb
